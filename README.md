@@ -7,6 +7,10 @@ Spring Boot 기반의 사내 ERP 시스템입니다.
 
 ## ✅ 프로젝트 개요
 
+![Java](https://img.shields.io/badge/Java-17-blue.svg)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen.svg)
+![Build](https://img.shields.io/badge/Status-In%20Progress-yellow.svg)
+
 - **프로젝트명:** FlowOne ERP
 - **기술스택:**
   - Java 17
